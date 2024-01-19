@@ -23,8 +23,15 @@ The project employs an Inception v3 model, TensorFlow Keras, and ImageDataGenera
 Then the final application is implemented in Jetson Nano which can be used as a standalone device and helps in predicting the calorie.
 
 ## Screenshots
+<div align="center">
+  <img src="images/model_accuracy.png" alt="Accuracy" width="400"/>
+  <p>Accuracy</p>
+</div>
 
-![Accuracy](images/model_accuracy.png)
+<div align="center">
+  <img src="images/output.png" alt="Output Screenshots" width="400"/>
+  <p>Output Screenshots</p>
+</div>
 
-![Output Screenshots](images/output.png)
+
 
